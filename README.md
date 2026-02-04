@@ -12,7 +12,7 @@ I love learning new stuff and contributing back to the community.
 - 🌱 Unreal Engine
 - 🌱 Unity
 - 🌱 Game security & reverse engineering
-- 
+- 🌱 Basic kernel
 ---
 
 ## 👀 Interested in
@@ -28,5 +28,11 @@ Discord: **@rtl_dispatch_exception**
 
 ---
 
-## 📊 My Programming Stats
-*I’m still building this section — stay tuned!*
+## 🗺️ My Goals
+- Learning C++ completely
+- Being able to reverse engineer Unreal Engine & Unity games by my self
+
+## 💭 My Dream
+- Being able to become an software engineer when im older
+- Being able to help or give back to the cheating community
+
