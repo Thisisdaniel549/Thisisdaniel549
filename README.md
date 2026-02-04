@@ -8,11 +8,11 @@ I love learning new stuff and contributing back to the community.
 ---
 
 ## 🚀 What I’m learning
-- 🌱 Unreal Engine development
-- 🌱 Unity development
-- 🌱 Game security & anti-cheat research
-- 🌱 Reverse engineering fundamentals
-
+- ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=c%2B%2B&style=for-the-badge)
+- 🌱 Unreal Engine
+- 🌱 Unity
+- 🌱 Game security & reverse engineering
+- 
 ---
 
 ## 👀 Interested in
